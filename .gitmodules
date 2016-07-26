@@ -1,3 +1,4 @@
 [submodule "zorro"]
 	path = zorro
-	url = git@github.com:Rhysyrhysrhys/zorro.git
+    url = git@github.com:Rhysyrhysrhys/zorro.git
+    branch = master
