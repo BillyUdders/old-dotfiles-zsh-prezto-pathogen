@@ -1,0 +1,7 @@
+[user]
+	name = Rhys Davies
+	email = rhys.davies901@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vim
