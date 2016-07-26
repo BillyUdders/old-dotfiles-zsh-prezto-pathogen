@@ -11,6 +11,6 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs..
-if [[ -s "${ZDOTDIR:-$HOME}/.zsh.plugins/zorro/init.zsh" ]]; then
-   source "${ZDOTDIR:-$HOME}/.zsh.plugins/zorro/init.zsh"
+if [[ -s "${ZDOTDIR:-$HOME}/zorro/init.zsh" ]]; then
+   source "${ZDOTDIR:-$HOME}/zorro/init.zsh"
 fi
