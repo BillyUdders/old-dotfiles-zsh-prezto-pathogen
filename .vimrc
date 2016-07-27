@@ -13,6 +13,7 @@ Plugin 'elzr/vim-json'
 Plugin 'kien/ctrlp.vim'
 Plugin 'fatih/vim-go'
 Plugin 'rust-lang/rust.vim'
+Plugin 'vim-airline/vim-airline'
 
 call vundle#end()
 filetype plugin indent on
