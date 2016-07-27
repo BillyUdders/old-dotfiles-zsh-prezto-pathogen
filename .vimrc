@@ -24,5 +24,7 @@ set shiftwidth=4
 set expandtab
 set laststatus=2
 
+let g:airline_theme = 'powerlineish'
 let g:airline_powerline_fonts = 1
+
 let g:ycm_rust_src_path = '/usr/local/src/rust/src'
